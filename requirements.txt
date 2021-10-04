@@ -1,1 +1,6 @@
-# No requirements beyond what's in standard Python distribution.
+# required packages
+coverage
+script:
+  - coverage run -m unittest discover -p "*_test.py"
+after_script:
+  - bash <(curl -s https://codecov.io/bash)
