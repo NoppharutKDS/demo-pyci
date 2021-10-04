@@ -1,4 +1,5 @@
 [![Build Status](https://app.travis-ci.com/Isolation666/demo-pyci.svg?branch=master)](https://app.travis-ci.com/github/Isolation666/demo-pyci)
+[![codecov](https://codecov.io/gh/Isolation666/demo-pyci/branch/master/graph/badge.svg?token=CMNYLNB913)](https://codecov.io/gh/Isolation666/demo-pyci)
 
 Continuous Integration Demo
 ============================
